@@ -1,0 +1,5 @@
+baseURL = 'https://carmats-china.com/'
+languageCode = 'en-us'
+title = 'Car Accessories Site'
+theme = "paper"
+
